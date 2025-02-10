@@ -52,7 +52,7 @@ This project helped in mastering key **Power BI concepts and data analysis techn
 
 ## 📎 Resources
 - **GitHub Repository**: [Business Insights 360](#)
-- **Live Dashboard**: [Power BI Dashboard]([https://lnkd.in/g_VWemkq](https://app.powerbi.com/view?r=eyJrIjoiYWYwZjU2ZGEtODNhZS00OTZjLWJiMzktODVkMDI3M2RkMDJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+- **Live Dashboard**: [Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYWYwZjU2ZGEtODNhZS00OTZjLWJiMzktODVkMDI3M2RkMDJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9])
 
 ## 🙌 Acknowledgments
 Special thanks to **Dhaval Patel** and **Hemanand Vadivel** for their invaluable guidance and mentorship throughout this project.
